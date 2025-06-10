@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', 'Akkurat', sans-serif;
+  background: #ffffff;
+  color: #222;
+}
+
+.navbar {
+  background: #639A00;
+}
+
+.navbar a {
+  color: #fff !important;
+}
